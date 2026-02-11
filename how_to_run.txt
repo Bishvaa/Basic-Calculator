@@ -1,0 +1,26 @@
+
+Simple CALCULATOR
+
+Before you start, just make sure you're in the right folder in your terminal.
+
+1. Using the Console Version (You can run this in vs code console)
+
+First, compile the code:
+Run this command to get everything ready:
+javac CalculatorApp.java Core.java
+
+Then run it:
+Once that's done, just type this to start the app:
+java CalculatorApp
+
+2. Using the GUI Version (you can get an interface it is basic)
+
+First, compile the code:
+You'll need to compile the GUI part along with the core logic:
+javac CalculatorGUI.java Core.java
+
+Then, run it:
+Launch the window by running:
+java CalculatorGUI
+
+You get a calculator 
